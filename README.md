@@ -1,5 +1,5 @@
 ### Oi!Eu sou o José!
--  Estudando Java
-- Contate-me no email:jose.f.pereira.s@outlook.com
--  Pronomes: ele/dele
+- Estudo Licenciatura em computação na UNILAB.
+- E-mail:jose.f.pereira.s@outlook.com
+- LInkedin: https://www.linkedin.com/in/josefps/
 
