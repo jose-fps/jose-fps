@@ -7,9 +7,6 @@
   
 🔭 Eu sou desenvolvedor Back-end e atualmente foco em Java
 
-
-💬 Sou entusiasta no desenvolvimento Java para APIs
-
 😄 Pronomes: Ele/Dele
 </div>
 <div align="center">
