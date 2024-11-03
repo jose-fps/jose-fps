@@ -5,9 +5,8 @@
 </p>
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e atualmente foco em Java
+🔭 Estou iniciando em desenvolvimento Back-end e atualmente foco na linguagem Java.
 
-😄 Pronomes: Ele/Dele
 </div>
 <div align="center">
   <a href="https://github.com/jose-fps">
