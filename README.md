@@ -9,7 +9,7 @@ Desenvolvimento: Java (Back-end) e Lógica de Programação.
 Automação: Em constante aprendizado via Udemy e cursos especializados.
 
 📈 Diferenciais Técnicos e Comportamentais
-Experiência com Prazos Críticos: Entrega de infraestrutura complexa (4 andares) em apenas 6 dias [01:26]. Trago essa agilidade e organização para o ciclo de vida de testes.
+Experiência com Prazos Críticos: Entrega de infraestrutura complexa (4 andares) em apenas 6 dias . 
 
 Foco em Pessoas: Comunicação assertiva e colaboração direta com times multidisciplinares para resolução de problemas.
 
