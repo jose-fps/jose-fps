@@ -1,16 +1,17 @@
-## Hi there 👋
+🚀 Aspirante a Analista de Qualidade de Software (QA)
+Transição de Carreira: Da Precisão Elétrica à Qualidade de Software. Estudante de Análise e Desenvolvimento de Sistemas focado em garantir que produtos digitais funcionem sem falhas.
 
-<!--
-**jose-fps/jose-fps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologias e Estudos (Stack)
+QA & Testes: TQC Quality Control (QaCoders), Fundamentos de Teste e Análise de Projetos.
 
-Here are some ideas to get you started:
+Desenvolvimento: Java (Back-end) e Lógica de Programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Automação: Em constante aprendizado via Udemy e cursos especializados.
+
+📈 Diferenciais Técnicos e Comportamentais
+Experiência com Prazos Críticos: Entrega de infraestrutura complexa (4 andares) em apenas 6 dias [01:26]. Trago essa agilidade e organização para o ciclo de vida de testes.
+
+Foco em Pessoas: Comunicação assertiva e colaboração direta com times multidisciplinares para resolução de problemas.
+
+🎯 Objetivo
+Buscando minha primeira oportunidade como Estagiário de QA para aplicar rigor técnico na prevenção de bugs e melhoria de processos.
